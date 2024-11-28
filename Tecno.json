@@ -1,7 +1,7 @@
 {
     "serverstatus":"true",
     "noticemode":"true",
-    "dataclearmode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/CraRAX/Tecno/raw/refs/heads/main/libmono.zip",
