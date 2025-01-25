@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/CraRAX/Tecno/raw/refs/heads/main/SorkichGL.zip",
-    "notice_title":"Sorkich Mode Version: 0.7 is loading...",
+    "notice_title":"Sorkich Mode Version: 0.8 is loading...",
     "notice_body":""
 }
